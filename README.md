@@ -1,1 +1,2 @@
-[![Dragoft's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dragoft&show_icons=true&title_color=FE6E96&icon_color=79D9F9&text_color=646666)](https://github.com/anuraghazra/github-readme-stats)
+[![Dragoft's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dragoft&show_icons=true&icon_color=79D9F9&text_color=646666)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dragoft&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
